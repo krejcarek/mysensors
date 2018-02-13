@@ -5,6 +5,7 @@
 
 // SETTINGS FOR MY_SIGNING_SOFT
 
+
 #define MY_SIGNING_SOFT //!< Software signing
 #define MY_SIGNING_REQUEST_SIGNATURES
 #define MY_SIGNING_SOFT_RANDOMSEED_PIN 7 //!< Unconnected analog pin for random seed
